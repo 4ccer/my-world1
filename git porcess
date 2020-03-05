@@ -1,0 +1,192 @@
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ git
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ git
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ ls
+py_sample       venv
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ cd ..
+(venv) JiahuadeMacBook-Pro:~ jiahua$ ls
+Applications                            ProgramingDatas                         eclipse-workspace                       python
+Applications (Parallels)                PromotionRes                            fsdownload                              testData
+Desktop                                 Public                                  game                                    vpn
+Documents                               WebstormProjects                        hadoop                                  ~$:支付宝介入系统介绍.docx
+Downloads                               ap.plist                                hadooptest                              东晓南路南翠2街704房
+Library                                 apps.plist                              history.plist                           主题
+Movies                                  bt.plist                                idea-java-project                       前端模板
+Music                                   business                                javaProjectSupport                      参考项目
+Parallels                               chrome插件                              office                                  文件之类
+Pictures                                eclipse                                 pycharm-workspace                       记录
+(venv) JiahuadeMacBook-Pro:~ jiahua$ cd pycharm-workspace/
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ ls
+py_sample       venv
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ mkdir my_world1
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ cd ..
+(venv) JiahuadeMacBook-Pro:~ jiahua$ cd .
+(venv) JiahuadeMacBook-Pro:~ jiahua$ cd pycharm-workspace/
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ ls
+my_world1       py_sample       venv
+(venv) JiahuadeMacBook-Pro:pycharm-workspace jiahua$ cd my_world1/
+(venv) JiahuadeMacBook-Pro:my_world1 jiahua$ git clone https://github.com/4ccer/my-world1.git
+Cloning into 'my-world1'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+(venv) JiahuadeMacBook-Pro:my_world1 jiahua$
+------
+------
+------
+------
+JiahuadeMacBook-Pro:my-world1 jiahua$ git
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+JiahuadeMacBook-Pro:my-world1 jiahua$ git add .
+JiahuadeMacBook-Pro:my-world1 jiahua$ git commit -m"fucking study"
+[master 7145fc7] fucking study
+ 1 file changed, 2 insertions(+)
+ create mode 100644 hello.py
+JiahuadeMacBook-Pro:my-world1 jiahua$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        .idea/
+
+nothing added to commit but untracked files present (use "git add" to track)
+JiahuadeMacBook-Pro:my-world1 jiahua$ git push
+Username for 'https://github.com': 4ccer
+Password for 'https://4ccer@github.com':
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 323 bytes | 323.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/4ccer/my-world1.git
+   f39dc2b..7145fc7  master -> master
+JiahuadeMacBook-Pro:my-world1 jiahua$
+-------------------
